@@ -1,2 +1,2 @@
-# usdt_subgraph
-A subgraph on the graph protocol for USDT stable coin
+# subgraph
+A subgraph on the graph protocol published on Rinkby Testnet.
